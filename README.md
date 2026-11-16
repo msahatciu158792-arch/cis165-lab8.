@@ -2,7 +2,7 @@
 
 **Course section:** CIS-165-W198  
 **Source file:** `geometry.cpp`  
-**Language standard:** C++17
+**Language standard:** C++
 
 ## Plan
 
