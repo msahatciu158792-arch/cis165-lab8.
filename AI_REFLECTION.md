@@ -16,3 +16,4 @@ I still need to compile and run this exact copy on my Mac before committing it.
 
 From this example, **I can now [write one idea or task you can explain yourself, such as tracing how the `switch` cases work].** 
 I still need to practice **[name one skill you personally need to strengthen, such as writing input checks without help].**
+ I am starting to learn what coding is and how it can help us in our daily life because all those variations of calculating are truly fascinating.
