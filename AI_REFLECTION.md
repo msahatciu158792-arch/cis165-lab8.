@@ -17,3 +17,4 @@ I still need to compile and run this exact copy on my Mac before committing it.
 From this example, **I can now [write one idea or task you can explain yourself, such as tracing how the `switch` cases work].** 
 I still need to practice **[name one skill you personally need to strengthen, such as writing input checks without help].**
  I am starting to learn what coding is and how it can help us in our daily life because all those variations of calculating are truly fascinating.
+But testing I found a mathematical error when I ran 2 and than 0 to find the area of rectangle it gave me 0 but that should not be true because such a rectangle with width of 0 should not exits so negative and 0 should not be allow it should've given me an error when I would have run the code.
